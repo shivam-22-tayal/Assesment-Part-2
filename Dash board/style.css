@@ -1,0 +1,13 @@
+.edit_btn_class{
+	color: yellow;
+	font-size: 1.3em;
+}
+.edit_btn_class:hover{
+	color: purple;
+}
+.delete_btn_class{
+	font-size: 1.3em;
+}
+.delete_btn_class:hover{
+	color: red;
+}
